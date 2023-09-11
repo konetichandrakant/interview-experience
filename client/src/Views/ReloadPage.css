@@ -1,0 +1,11 @@
+.main-box{
+  height: 100vh;
+  width: 100vw;
+  justify-content: center;
+  align-items: center;
+}
+
+.reload-gif{
+  height: 40vh;
+  width: 40vw;
+}
